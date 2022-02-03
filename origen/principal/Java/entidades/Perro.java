@@ -11,6 +11,7 @@ package entidades;
 public class Perro {
     private String nombre;
     private String raza; 
-    private integer edad;
+    private Integer edad; 
+    private String concha;
 }
 
